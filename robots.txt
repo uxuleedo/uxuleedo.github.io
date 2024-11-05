@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uxuleedo.github.io/UQT/sitemap_index.txt
+Sitemap: https://uxuleedo.github.io/Xmf/sitemap_index.txt
+Sitemap: https://uxuleedo.github.io/iqL/sitemap_index.txt
+Sitemap: https://uxuleedo.github.io/uMn/sitemap_index.txt
